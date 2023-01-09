@@ -79,24 +79,5 @@ section {
   font-size: 4rem 0;
 }
 
-.project-title {
-  font-size: 3.2rem;
-}
-
-.Foto-p1 {
-  border-radius: 0.2rem;
-  width: 21rem;
-  height: 15rem;
-}
-
-.P1-Title {
-  height: 13rem;
-  margin-left: 2rem;
-  color: #dbdfff;
-}
-
-.Project-one {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.Project {
 }
